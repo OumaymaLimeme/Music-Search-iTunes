@@ -51,9 +51,7 @@ npm run test:unit
 
 ```sh
 
-
-<img width="1302" height="1072" alt="Screenshot from 2026-01-22 09-28-42" src="https://github.com/user-attachments/assets/c2611520-7161-41cc-bb38-1cfc3f1e91c6" />
-
 npm run lint
 ```
 # Music-Search-iTunes
+<img width="1302" height="1072" alt="Screenshot from 2026-01-22 09-28-42" src="https://github.com/user-attachments/assets/b6702231-62e5-453d-a814-2acf511da3de" />
