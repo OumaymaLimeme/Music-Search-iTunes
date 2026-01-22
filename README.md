@@ -50,6 +50,10 @@ npm run test:unit
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
+
+
+<img width="1302" height="1072" alt="Screenshot from 2026-01-22 09-28-42" src="https://github.com/user-attachments/assets/c037ea7b-be10-4efe-ae5d-2a4d92c9518c" />
+
 npm run lint
 ```
 # Music-Search-iTunes
